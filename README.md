@@ -12,3 +12,18 @@ Include a list of the tools used in the project:
 1. Jupyter Notebook
 2. MySQL
 3. Matplotlib
+
+<a class="anchor" id="contact"></a>
+>## Contact Information
+[Bill Gates](https://www.linkedin.com/in/williamhgates/detail/recent-activity/posts/)
+
+[@BillGates](https://twitter.com/BillGates) - Twitter
+
+>## Table of Contents Example
+
+* [About the Project](#about-the-project)
+* [Tools](#tools)
+* [Installation Instructions](#installation_instructions)
+* [Contact Information](#contact)
+
+![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
