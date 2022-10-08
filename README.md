@@ -1,4 +1,4 @@
-# Header - README Template
+# Repository for Activities 9.1 and 9.2
 My Github Page
 
 <a class="anchor" id="about the project"></a>
